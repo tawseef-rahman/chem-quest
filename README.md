@@ -138,4 +138,4 @@ Once the game starts, you can select a quiz and a mode. Here's how the game mode
 
 - **Mode 3**: Identify the bond angles.
 
-  - Example: Given steric number 4 and 2 lone pairs (e.g., H2O), choose the correct bond angles: 104.5°.
+  - Example: Given steric number 4 and 2 lone pairs (e.g., H2O), choose the correct bond angles: 104.5 degrees.
