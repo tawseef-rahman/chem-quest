@@ -31,3 +31,9 @@ This guide will walk you through the steps to set up and play the game.
   - **Mode 1:** Identify the molecular geometry based on steric number and lone pairs.
   - **Mode 2:** Identify the electron geometry based on steric number and lone pairs.
   - **Mode 3:** Identify the bond angles based on steric number and lone pairs.
+
+## Prerequisites
+
+- **Operating System:** macOS, Linux, or Windows (via WSL)
+- **Compiler:** `g++` (GNU Compiler Collection) that supports C++17 or later
+- **CMake** (optional for building, if you want to use it)
