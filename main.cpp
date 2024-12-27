@@ -11,7 +11,7 @@ int main()
 
     while (continueGame)
     {
-        std::cout << "Welcome to the Chemistry Quiz Game!\n";
+        std::cout << "Welcome to the ChemQuest Game!\n";
         std::cout << "1. Periodic Table of Elements\n";
         std::cout << "2. Polyatomic Ions\n";
         std::cout << "3. Amino Acids\n";
