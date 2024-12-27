@@ -160,3 +160,9 @@ chemistry-quiz-game/
 ├── vsepr.h                 # Header for VSEPR theory functions
 └── README.md               # Project documentation
 ```
+
+### Troubleshooting
+
+#### Issue: Compliation Errors
+
+Ensure that you have `g++` installed and are using `C++`17 or later. If using `make`, ensure the `Makefile` is correctly set up. If needed, run `make clean` before recompiling.
