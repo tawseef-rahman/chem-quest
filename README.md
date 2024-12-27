@@ -139,3 +139,24 @@ Once the game starts, you can select a quiz and a mode. Here's how the game mode
 - **Mode 3**: Identify the bond angles.
 
   - Example: Given steric number 4 and 2 lone pairs (e.g., H2O), choose the correct bond angles: 104.5 degrees.
+
+### Project Structure
+
+Here is the structure of the project directory:
+
+```bash
+chemistry-quiz-game/
+├── Makefile                # Makefile for compiling the code
+├── main.cpp                # Main game driver
+├── common_functions.cpp    # Helper functions used across the quizzes
+├── common_functions.h      # Header for common functions
+├── elements.cpp            # Periodic Table Quiz code
+├── elements.h              # Header for periodic table functions
+├── polyatomic_ions.cpp     # Polyatomic Ions Quiz code
+├── polyatomic_ions.h       # Header for polyatomic ion functions
+├── amino_acids.cpp         # Amino Acids Quiz code
+├── amino_acids.h           # Header for amino acids functions
+├── vsepr.cpp               # VSEPR Theory Quiz code
+├── vsepr.h                 # Header for VSEPR theory functions
+└── README.md               # Project documentation
+```
